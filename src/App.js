@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./App.css";
 import ApiObj from "./FetchApi";
 
-import ApodData from "./Apod";
+
 import ApodComponent from "./Apod";
 
 function App() {

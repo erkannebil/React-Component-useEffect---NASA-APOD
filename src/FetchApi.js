@@ -1,4 +1,3 @@
-import React from 'react'
 
 const apiKey = "cJcngoG4ApjVi1BxgNiNRwYcORP2GHVytrstOIlX";
 let ApiObj ={
