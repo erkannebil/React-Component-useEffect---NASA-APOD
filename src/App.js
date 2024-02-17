@@ -9,7 +9,7 @@ function App() {
   const [apodData, setApodData] = useState([ ]);
 
   useEffect(async () => {
-    let fetchData= await ApiObj.fetchData(5);
+    let fetchData= await ApiObj.fetchData(11);
     setApodData(fetchData);
     console.log(fetchData);
   },[]);

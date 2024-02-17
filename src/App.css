@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+.ApodPage{
+  padding: 20px 20px;
+}
+
+.Apod{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+.img{
+width: 300px;
+height: 300px;
+}
+
+#explanation{
+  background-color: antiquewhite;
+  border-radius: 20px;
+  text-align: justify;       
+  text-align-last: justify;
+  padding: 20px 20px;
+  line-height: 2.0;
+  
+}
