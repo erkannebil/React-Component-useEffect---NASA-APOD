@@ -98,5 +98,5 @@ MVP'ye ulaşılana ve son bir commit yapılana kadar ek görevleri denemeyin...
 - [ ] Aynı web sitesinde listelenen NASA'nın diğer API'lerinden birini kullanan başka bir uygulama yapın
 
 ---
+<img width="381" alt="image" src="https://github.com/erkannebil/React-Component-useEffect-NASA-APOD/assets/80630016/d034997a-8462-4b90-b473-21b120d35d96">
 
-## Bölüm II (Yarının Projesi) - [Gelişmiş Görselleştirme Teknikleri](https://github.com/Workintech/FSWeb-S6G4-Nasa-II/blob/main/README.md)
