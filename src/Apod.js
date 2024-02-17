@@ -2,7 +2,7 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import Comment from './component/comment';
+
 
 function ApodComponent(props) {
   const { apodData } = props;
@@ -23,10 +23,6 @@ function ApodComponent(props) {
               src={apodData.url}
               alt=""
             />
-          </Col>
-          <Col xs={6} md={4} style={{ overflow: 'hidden' }}>
-          
-            
           </Col>
         </Row>
         <Row>
